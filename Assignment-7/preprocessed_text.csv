@@ -1,0 +1,11 @@
+text,label,cleaned_text,no_stopwords_text,lemmatized_text,encoded_label
+The movie was absolutely wonderful and amazing!,Positive,the movie was absolutely wonderful and amazing,movie absolutely wonderful amazing,movie absolutely wonderful amazing,2
+I hated the food at the restaurant. It was terrible.,Negative,i hated the food at the restaurant it was terrible,hated food restaurant terrible,hated food restaurant terrible,0
+"The weather today is okay, nothing special.",Neutral,the weather today is okay nothing special,weather today okay nothing special,weather today okay nothing special,1
+She loves reading books and learning new things.,Positive,she loves reading books and learning new things,loves reading books learning new things,love reading book learning new thing,2
+This product is the worst I've ever bought!!!,Negative,this product is the worst ive ever bought,product worst ive ever bought,product worst ive ever bought,0
+"The service was decent, could have been better.",Neutral,the service was decent could have been better,service decent could better,service decent could better,1
+Fantastic experience! Highly recommend to everyone.,Positive,fantastic experience highly recommend to everyone,fantastic experience highly recommend everyone,fantastic experience highly recommend everyone,2
+"Not bad, but not great either. Just average.",Neutral,not bad but not great either just average,bad great either average,bad great either average,1
+"I absolutely love this new phone, it's incredible!",Positive,i absolutely love this new phone its incredible,absolutely love new phone incredible,absolutely love new phone incredible,2
+The trip was boring and a complete waste of time.,Negative,the trip was boring and a complete waste of time,trip boring complete waste time,trip boring complete waste time,0
